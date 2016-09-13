@@ -310,4 +310,13 @@
   title: "Sócio-diretor"
   bio: "Graduado em Ciência da computação pela Universidade Federal da Bahia. Sócio-diretor da empresa Potelo Softwares que atualmente está na Incubadora da Aity no Parque Tecnológico da Bahia. A Potelo Softwares é responsável por um site com mais de 150 mil visitas/dia e desenvolvido com PHP."
   thumbnailUrl: gabrielpeixoto.jpeg
+  rockstar: true 
+-
+  id: 29
+  name: "Luciano"
+  surname: "Queiroz"
+  company: ""
+  title: ""
+  bio: "PHP Software Engineer, trabalha remotamente há mais de 4 anos para empresas dentro e fora do Brasil. Atualmente tem dedicado tempo e esforço a dominar o Domain Driven Design. Frequentador assíduo de eventos ao redor do Brasil, acredita que a comunidade é o que faz a diferença na vida de um desenvolvedor."
+  thumbnailUrl: luciano.jpg
   rockstar: true  
