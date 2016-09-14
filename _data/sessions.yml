@@ -216,8 +216,8 @@
   complexity: "Iniciante"
 -
   id: 029
-  title: "Seu código está altamente acoplado a 'mecanismos de entrega'?"
-  description: "Nessa palestra vamos tentar entender melhor o que essa pergunta quer dizer, quais problemas ela levanta, quais problemas ela ajuda a resolver. Vamos investigar meios de identificar se o seu código, software ou domain está altamente acoplado a decisões que você não precisaria ainda ter tomado como escolha de database, framework, biblioteca de persistência e etc. E veremos como uma boa arquitetura permite você a adiar decisões ao mesmo tempo que mantém você focado nos uses-cases."
+  title: "Is your code highly coupled to delivery mechanisms?"
+  description: "Seu código está altamente acoplado a \"mecanismos de entrega\"?<br> — Beleza, mas o que essa pergunta quer dizer?<br> Nessa palestra vamos tentar entender melhor o que essa pergunta quer dizer, quais problemas ela levanta, quais problemas ela ajuda a resolver. Vamos investigar meios de identificar se o seu código, software ou domain está altamente acoplado a decisões que você não precisaria ainda ter tomado como escolha de database, framework, biblioteca de persistência e etc. E veremos como uma boa arquitetura permite você a adiar decisões ao mesmo tempo que mantém você focado nos uses-cases."
   subtype: presentation
   speakers: [29]
   language: pt
