@@ -43,7 +43,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/about", text: "Sobre"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/#subscribe", text: "Receba Novidades"}
+ #- {permalink: "/#subscribe", text: "Receba Novidades"}
  - {permalink: "/#partners", text: "Organizadores"}
  - {permalink: "/cod", text: "Código de Conduta"}
  #- {link: "http://2015.phpeste.net", text: "Edição 2015"}
