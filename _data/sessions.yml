@@ -102,14 +102,14 @@
   speakers: [13]
   language: pt
   complexity: "Intermediário"
-# -
-#   id: 014
-#   title: "Automatização Residencial com PHP"
-#   description: "Irei abordar de forma prática e o mais simples possível como usar o Arduino junto com o PHP para automatizar sua casa. Ligue luzes, abra portões, suba cortinas e mais pela internet."
-#   subtype: presentation
-#   speakers: [14]
-#   language: pt
-#   complexity: "Intermediário"
+-
+  id: 014
+  title: "Automatização Residencial com PHP"
+  description: "Irei abordar de forma prática e o mais simples possível como usar o Arduino junto com o PHP para automatizar sua casa. Ligue luzes, abra portões, suba cortinas e mais pela internet."
+  subtype: presentation
+  speakers: [14]
+  language: pt
+  complexity: "Intermediário"
 -
   id: 015
   title: "All about Clean Code"
@@ -118,30 +118,30 @@
   speakers: [15]
   language: pt
   complexity: "Intermediário"
-# -
-#   id: 016
-#   title: "A Revolução dos Middlewares com Zend Expressive"
-#   description: "Afinal, o que é esse tal de Zend Expressive? Já pensou em ter a liberdade de escolher apenas as bibliotecas de sua preferência para montar seu projeto? Imagine fazer isso em um micro-framework simples, leve, com alta performance, em total conformidade com as PSR’s (incluindo PSR-7 e os middlewares) e que tenha total interoperabilidade entre todas elas. O Zend Expressive chegou ao mercado provendo tudo isso, e sem perder a gama completa de funcionalidades do seu parente Full Stack. Durante a palestra, você entenderá melhor como funciona a mais nova aposta da Zend e da comunidade do Zend Framework."
-#   subtype: presentation
-#   speakers: [16]
-#   language: pt
-#   complexity: "Intermediário"
-# -
-#   id: 017
-#   title: "Automação - Usando melhor seu tempo e seus recursos"
-#   description: "Automação é um processo que, se feito com cuidado, só trás benefícios. Tanto para o desenvolvedor quando para a equipe. Nesta palestra eu demonstro como a automação está presente em coisas simples, e como ela pode te fazer ganhar tempo. Nesta palestra tento não focar na automação tests/build/deploy, mas em todo o tipo de automação, como a que ocorre em nosso terminal e em outras pequenas coisas. Falo também de ferramentas de automação, e demonstro alguns processos de integração."
-#   subtype: presentation
-#   speakers: [17]
-#   language: pt
-#   complexity: "Intermediário"
-# -
-#   id: 018
-#   title: "Xdebug: Seus problemas acabaram!"
-#   description: "Você leva horas, dias para encontrar um bug? Não conhece o framework que trabalha ou leva dias encontrando como implementar algo? Seus problemas acabaram! Aprenda a debugar suas aplicações com Xdebug!"
-#   subtype: presentation
-#   speakers: [18]
-#   language: pt
-#   complexity: "Intermediário"
+-
+  id: 016
+  title: "A Revolução dos Middlewares com Zend Expressive"
+  description: "Afinal, o que é esse tal de Zend Expressive? Já pensou em ter a liberdade de escolher apenas as bibliotecas de sua preferência para montar seu projeto? Imagine fazer isso em um micro-framework simples, leve, com alta performance, em total conformidade com as PSR’s (incluindo PSR-7 e os middlewares) e que tenha total interoperabilidade entre todas elas. O Zend Expressive chegou ao mercado provendo tudo isso, e sem perder a gama completa de funcionalidades do seu parente Full Stack. Durante a palestra, você entenderá melhor como funciona a mais nova aposta da Zend e da comunidade do Zend Framework."
+  subtype: presentation
+  speakers: [16]
+  language: pt
+  complexity: "Intermediário"
+-
+  id: 017
+  title: "Automação - Usando melhor seu tempo e seus recursos"
+  description: "Automação é um processo que, se feito com cuidado, só trás benefícios. Tanto para o desenvolvedor quando para a equipe. Nesta palestra eu demonstro como a automação está presente em coisas simples, e como ela pode te fazer ganhar tempo. Nesta palestra tento não focar na automação tests/build/deploy, mas em todo o tipo de automação, como a que ocorre em nosso terminal e em outras pequenas coisas. Falo também de ferramentas de automação, e demonstro alguns processos de integração."
+  subtype: presentation
+  speakers: [17]
+  language: pt
+  complexity: "Intermediário"
+-
+  id: 018
+  title: "Xdebug: Seus problemas acabaram!"
+  description: "Você leva horas, dias para encontrar um bug? Não conhece o framework que trabalha ou leva dias encontrando como implementar algo? Seus problemas acabaram! Aprenda a debugar suas aplicações com Xdebug!"
+  subtype: presentation
+  speakers: [18]
+  language: pt
+  complexity: "Intermediário"
 -
   id: 020
   title: "Jornada do Herói Dev: perrengues e gambiarras e como passamos por cima"
@@ -174,14 +174,6 @@
   speakers: [23]
   language: pt
   complexity: "Intermediário"
-# -
-#   id: 024
-#   title: "O Poder das Comunidades de Tecnologia"
-#   description: "A palestra descreve sobre o que são comunidades da história antiga até os tempos atuais. O compartilhamento de ideias, o envolvimento, o que move as comunidades de tecnologia, os 5 tipos pessoas de comunidades e um roda de conversa que vai ser chamado de \"Uma pausa para a comunidade\" cada pessoa da plateia vai compartilhar um pouco de sua experiencia com comunidades."
-#   subtype: presentation
-#   speakers: [24]
-#   language: pt
-#   complexity: "Intermediário"
 -
   id: 025
   title: "Start com Microframeworks"
@@ -220,5 +212,13 @@
   description: "Seu código está altamente acoplado a \"mecanismos de entrega\"?<br> — Beleza, mas o que essa pergunta quer dizer?<br> Nessa palestra vamos tentar entender melhor o que essa pergunta quer dizer, quais problemas ela levanta, quais problemas ela ajuda a resolver. Vamos investigar meios de identificar se o seu código, software ou domain está altamente acoplado a decisões que você não precisaria ainda ter tomado como escolha de database, framework, biblioteca de persistência e etc. E veremos como uma boa arquitetura permite você a adiar decisões ao mesmo tempo que mantém você focado nos uses-cases."
   subtype: presentation
   speakers: [29]
+  language: pt
+  complexity: "Intermediário"
+-
+  id: 030
+  title: "Docker do básico a Orquestração"
+  description: "Essa palestra tem como ideia mostrar o que são contêineres, o que é o Docker, mostrar as diferenças e similaridades com as já tradicionais máquinas virtuais, mostrar os principais comandos, as grandes vantagens de utilizar e como montar seu ambiente de desenvolvimento com diversos containers interligados."
+  subtype: presentation
+  speakers: [30]
   language: pt
   complexity: "Intermediário"

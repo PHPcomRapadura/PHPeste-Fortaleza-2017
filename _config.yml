@@ -59,8 +59,7 @@ eventDate: "08 e 09 de Outubro, Salvador, Bahia"
 typeoutTextValues: '"salvador", "acarajé", "capoeira", "comunidade", "praia"'
 typeoutFallback: "salvador"
 heroButtons:
-  - {permalink: "http://benfeitoria.com/phpeste2016", text: "Garantir minha vaga"}
-  - {link: "http://cfp.phpeste.net/", text: "Seja um palestrante"}
+  - {permalink: "http://benfeitoria.com/phpeste2016", text: "Garantir minha vaga"}  
 
 # About Block
 aboutTitle: "Sobre o PHPeste"
@@ -74,7 +73,7 @@ statisticBlockImage: "galera.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "participantes", detail: "do Brasil inteiro"}
  - {count: "16", specialCharacter: "+", info: "horas", detail: "de muito PHP"}
- - {count: "20", specialCharacter: "+", info: "palestrantes", detail: "brasileiros e internacionais"}
+ - {count: "28", specialCharacter: "+", info: "palestrantes", detail: "brasileiros e internacionais"}
  - {count: "2", specialCharacter: "", info: "trilhas", detail: "mais área de convivência"}
 
 # Latest News Block

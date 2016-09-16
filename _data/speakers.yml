@@ -23,6 +23,50 @@
     - {name: "twitter", link: "https://twitter.com/duodraco"}
     - {name: "github", link: "https://github.com/duodraco"}
 -
+  id: 12
+  name: "Gabriela"
+  surname: "D'Ávila"
+  company: ""
+  title: "Data Engineer"
+  bio: "Data Engineer, fã de legos, e palestrante ocasional gosta de falar de dados em geral. Seja relacional ou não. Escreve em gabriela.io."
+  thumbnailUrl: gabriela.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/gabidavila"}
+-
+  id: 9
+  name: "Ivan"
+  surname: "Rosolen"
+  company: "Arizona e PHPSP"
+  title: "Head of Innovation"
+  bio: "Atua há mais de 15 anos como profissional de TI desenvolvendo sistemas web/desktop e aplicativos mobile. Head of Innovation na Arizona e membro ativo da comunidade PHP sendo um dos fundadores do Grupo de Desenvolvedores PHP de São Paulo – PHPSP"
+  thumbnailUrl: ivanrosolen.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ivanrosolen"}
+-
+  id: 10
+  name: "Nikolas"
+  surname: "Silva"
+  company: "PHPSP"
+  title: "Desenvolvedor"
+  bio: "Desenvolvedor há aproximadamente 4 anos, tecnólogo em Análise e Desenvolvimento de Sistemas, pós graduando em Engenharia de Software Orientada para Serviços (SOA) e já estive envolvido com desenvolvimento de sistemas de telecom, gestão e financeiros. Hoje dedico meus dias ao estudo de tecnologias, práticas e técnicas sobre sistemas distribuídos, procurando integrar todas as áreas de atuação através destes. Além disso fico sempre presente em todos eventos PHPSP+Pub, pois acredito que conversa, pessoas e cerveja são a chave para aprender, fortalecer conceitos e criar novos vínculos."
+  thumbnailUrl: nikolas.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/nawarian"}
+-
+  id: 11
+  name: "Augusto"
+  surname: "Pascutti"
+  company: "Easy Taxy"
+  title: "Software Engineer"
+  bio: "Developer for 10+ years. Fan of open source, people (co-founded PHPSP), Randal Munroe and PHP."
+  thumbnailUrl: pascutti.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/augustohp"}
+-
   id: 3
   name: "Abdala"
   surname: "Cerqueira"
@@ -47,6 +91,50 @@
     - {name: "twitter", link: "https://twitter.com/feitozaale"}
     - {name: "github", link: "https://github.com/alessandrofeitoza"}
     - {name: "facebook", link: "https://facebook.com/Alessandro.Feitoza"}
+-
+  id: 16
+  name: "Paulo"
+  surname: "Eduardo Lima Rezende"
+  company: "Psyco"
+  title: "Sócio Fundador"
+  bio: "É Sócio Fundador da Psyco, consultoria em desenvolvimento de sistemas, começou como desenvolvedor Frontend mas logo passou para o lado servidor com PHP em 2006, se especializou no desenvolvimento de sistemas com Zend Framework, acompanhando grande parte da evolução do framework, também atua hoje como evangelista do PHPSP, Grupo de Desenvolvedores de PHP do Estado de São Paulo e contribui com projetos Open Source."
+  thumbnailUrl: paulo-eduardo.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/pauloelr"}
+-
+  id: 17
+  name: "Hussani"
+  surname: "Oliveira"
+  company: "Global Fashion Group"
+  title: "Programador PHP"
+  bio: "Desenvolvedor PHP desde 2010, atua como evangelista na comunidade PHPSP e trabalha como programador PHP no Global Fashion Group. É apaixonado por comunidades, cerveja e jogos digitais."
+  thumbnailUrl: hussani.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/hussanii"}
+-
+  id: 18
+  name: "Vitor"
+  surname: "Mattos"
+  company: "OLX"
+  title: "Desenvolvedor"
+  bio: "Trabalho há mais de 10 anos na área de web e TI, empreendedor, sembre buscando novos desafios e conhecimentos. Grande incentivador do software livre, palestrante em eventos regionais e nacionais. Amante do conhecimento e apaixonado por compartilhá-lo com todos."
+  thumbnailUrl: vitormattos.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/vitormattosrj"}
+-
+  id: 20
+  name: "Márcio"
+  surname: "Albuquerque"
+  company: "SERPRO"
+  title: "Analista de desenvolvimento e infraestrutura"
+  bio: "Trabalha na empresa tem 10 anos atuando em vários sistemas internos, sistemas para órgãos do governo e infra pra desenvolvimento. Fã incondicional de PHP, JS e CSS!! Viciado em board games, filmes e séries!"
+  thumbnailUrl: marcio.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mlalbuquerque"}
 -
   id: 5
   name: "Nando"
@@ -96,50 +184,6 @@
     - {name: "twitter", link: "https://twitter.com/malukenho"}
     - {name: "github", link: "https://github.com/malukenho"}
 -
-  id: 9
-  name: "Ivan"
-  surname: "Rosolen"
-  company: "Arizona e PHPSP"
-  title: "Head of Innovation"
-  bio: "Atua há mais de 15 anos como profissional de TI desenvolvendo sistemas web/desktop e aplicativos mobile. Head of Innovation na Arizona e membro ativo da comunidade PHP sendo um dos fundadores do Grupo de Desenvolvedores PHP de São Paulo – PHPSP"
-  thumbnailUrl: ivanrosolen.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/ivanrosolen"}
--
-  id: 10
-  name: "Nikolas"
-  surname: "Silva"
-  company: "PHPSP"
-  title: "Desenvolvedor"
-  bio: "Desenvolvedor há aproximadamente 4 anos, tecnólogo em Análise e Desenvolvimento de Sistemas, pós graduando em Engenharia de Software Orientada para Serviços (SOA) e já estive envolvido com desenvolvimento de sistemas de telecom, gestão e financeiros. Hoje dedico meus dias ao estudo de tecnologias, práticas e técnicas sobre sistemas distribuídos, procurando integrar todas as áreas de atuação através destes. Além disso fico sempre presente em todos eventos PHPSP+Pub, pois acredito que conversa, pessoas e cerveja são a chave para aprender, fortalecer conceitos e criar novos vínculos."
-  thumbnailUrl: nikolas.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/nawarian"}
--
-  id: 11
-  name: "Augusto"
-  surname: "Pascutti"
-  company: "Easy Taxy"
-  title: "Software Engineer"
-  bio: "Developer for 10+ years. Fan of open source, people (co-founded PHPSP), Randal Munroe and PHP."
-  thumbnailUrl: pascutti.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/augustohp"}
--
-  id: 12
-  name: "Gabriela"
-  surname: "D'Ávila"
-  company: ""
-  title: "Data Engineer"
-  bio: "Data Engineer, fã de legos, e palestrante ocasional gosta de falar de dados em geral. Seja relacional ou não. Escreve em gabriela.io."
-  thumbnailUrl: gabriela.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/gabidavila"}
--
   id: 13
   name: "Leonn"
   surname: "Leite"
@@ -150,17 +194,17 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/leonnleite"}
-# -
-#   id: 14
-#   name: "Diego"
-#   surname: "Pires"
-#   company: "PHPSP"
-#   title: "Gestor de Tecnologia"
-#   bio: "Trabalha com PHP desde 2002. Atualmente trabalhando como gestor de tecnologia em uma empresa de comércio exterior. É entusiasta de novas tecnologias e automações residenciais. Palestrante, gamer, geek, evangelista do PHP User Group São Paulo."
-#   thumbnailUrl: diegopires.jpeg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/diegopires"}
+-
+  id: 14
+  name: "Diego"
+  surname: "Pires"
+  company: "PHPSP"
+  title: "Gestor de Tecnologia"
+  bio: "Trabalha com PHP desde 2002. Atualmente trabalhando como gestor de tecnologia em uma empresa de comércio exterior. É entusiasta de novas tecnologias e automações residenciais. Palestrante, gamer, geek, evangelista do PHP User Group São Paulo."
+  thumbnailUrl: diegopires.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/diegopires"}
 -
   id: 15
   name: "Jean"
@@ -172,61 +216,6 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/JeanCarloMachad"}
-# -
-#   id: 16
-#   name: "Paulo"
-#   surname: "Eduardo Lima Rezende"
-#   company: "Psyco"
-#   title: "Sócio Fundador"
-#   bio: "É Sócio Fundador da Psyco, consultoria em desenvolvimento de sistemas, começou como desenvolvedor Frontend mas logo passou para o lado servidor com PHP em 2006, se especializou no desenvolvimento de sistemas com Zend Framework, acompanhando grande parte da evolução do framework, também atua hoje como evangelista do PHPSP, Grupo de Desenvolvedores de PHP do Estado de São Paulo e contribui com projetos Open Source."
-#   thumbnailUrl: paulo-eduardo.jpeg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/pauloelr"}
-# -
-#   id: 17
-#   name: "Hussani"
-#   surname: "Oliveira"
-#   company: "Global Fashion Group"
-#   title: "Programador PHP"
-#   bio: "Desenvolvedor PHP desde 2010, atua como evangelista na comunidade PHPSP e trabalha como programador PHP no Global Fashion Group. É apaixonado por comunidades, cerveja e jogos digitais."
-#   thumbnailUrl: hussani.jpeg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/hussanii"}
-# -
-#   id: 18
-#   name: "Vitor"
-#   surname: "Mattos"
-#   company: "OLX"
-#   title: "Desenvolvedor"
-#   bio: "Trabalho há mais de 10 anos na área de web e TI, empreendedor, sembre buscando novos desafios e conhecimentos. Grande incentivador do software livre, palestrante em eventos regionais e nacionais. Amante do conhecimento e apaixonado por compartilhá-lo com todos."
-#   thumbnailUrl: vitormattos.jpeg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/vitormattosrj"}
-# -
-#   id: 19
-#   name: "Sergio"
-#   surname: "Rafael Siqueira"
-#   company: "INBEP"
-#   title: "CTO"
-#   bio: "Programador desde que javascript era dhtml.. Hoje é CTO da INBEP, uma startup de EaD com foco em cursos de saúde e segurança do trabalho."
-#   thumbnailUrl: sergiorafael.jpeg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/serg1ors"}
--
-  id: 20
-  name: "Márcio"
-  surname: "Albuquerque"
-  company: "SERPRO"
-  title: "Analista de desenvolvimento e infraestrutura"
-  bio: "Trabalha na empresa tem 10 anos atuando em vários sistemas internos, sistemas para órgãos do governo e infra pra desenvolvimento. Fã incondicional de PHP, JS e CSS!! Viciado em board games, filmes e séries!"
-  thumbnailUrl: marcio.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/mlalbuquerque"}
 -
   id: 21
   name: "Danielle"
@@ -258,17 +247,6 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/ted_k"}
-# -
-#   id: 24
-#   name: "Helena"
-#   surname: "Saminez"
-#   company: "Women Techmakers São Luis"
-#   title: "Organizadora"
-#   bio: "Estudante de computação, líder do Women Techmakers São Luis, organizadora do GDG São Luis, integrante do Php Maranhão. Ama comunidades e atua também empoderando mulheres para a tecnologia."
-#   thumbnailUrl: helena.jpeg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/lenasaminez"}
 -
   id: 25
   name: "Felipe"
@@ -320,3 +298,13 @@
   bio: "PHP Software Engineer, trabalha remotamente há mais de 4 anos para empresas dentro e fora do Brasil. Atualmente tem dedicado tempo e esforço a dominar o Domain Driven Design. Frequentador assíduo de eventos ao redor do Brasil, acredita que a comunidade é o que faz a diferença na vida de um desenvolvedor."
   thumbnailUrl: luciano.jpg
   rockstar: true  
+-
+  id: 30
+  name: "Wellington"
+  surname: "Silva"
+  company: ""
+  title: "Desenvolvedor"
+  bio: "Técnico em telecom diplomado pelo SENAI com registro no CREA-SP. Certificado ZCE PHP 5.3, instrutor, autor do livro Aprendendo Docker, hoje atua parte como desenvolvedor parte como administrador de sistemas e possui perfil Devops. Tem contribuído com ajuda em fóruns e palestras para comunidades PHP, Python e Docker."
+  thumbnailUrl: wellington.jpeg
+  rockstar: true  
+

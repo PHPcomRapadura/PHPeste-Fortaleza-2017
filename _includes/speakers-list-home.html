@@ -2,6 +2,7 @@
 <section id="speakers" class="speakers">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.rockstarSpeakersTitle }}</h3>
             <div class="row text-left appear-animation-trigger">
                 {% for speaker in site.data.speakers %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
@@ -20,9 +21,9 @@
                                 </ul>
                                 {% endif %}
                                 {% if site.showSessions %}
-                                <figcaption>
+                                <figcaption style="padding: 0px 16px;">
                                     <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
-                                    <p class="position">{{ speaker.company }}</p>
+                                    <h2 style="font-size: 12px; margin-top: 0px;">{{ speaker.company }}</h2>
                                 </figcaption>
                                 {% endif %}
                             </figure>
