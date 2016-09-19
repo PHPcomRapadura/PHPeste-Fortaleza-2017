@@ -2,3 +2,4 @@
   group: "Apoiadores"
   elements:
     - { name: "Casa do Código", description: "", link: "https://www.casadocodigo.com.br", imageUrl: "casa-do-codigo.png" }
+    - { name: "Stickers Dev", description: "", link: "https://www.stickersdevs.com.br", imageUrl: "stickers-dev.png"  }
