@@ -59,7 +59,7 @@ eventDate: "08 e 09 de Outubro, Salvador, Bahia"
 typeoutTextValues: '"salvador", "acarajé", "capoeira", "comunidade", "praia"'
 typeoutFallback: "salvador"
 heroButtons:
-  - {permalink: "http://benfeitoria.com/phpeste2016", text: "Garantir minha vaga"}
+  - {permalink: "/#tickets", text: "Garantir minha vaga"}
 
 # About Block
 aboutTitle: "Sobre o PHPeste"
