@@ -11,14 +11,7 @@
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
-            <p>{{ site.eventDate }}</p>
-            <p>Ingressos: </p>
-            <form method='post' action='https://www.moip.com.br/PagamentoSimples.do'>
-                <input type='hidden' name='id_carteira' value='jonataweber@gmail.com'/>
-                <input type='hidden' name='valor' value='10000'/>
-                <input type='hidden' name='nome' value='Ingresso PHPeste'/>
-                <input type='image' name='submit' src='https://static.moip.com.br/imgs/buttons/bt_pagar_c04_e04.png' alt='Comprar ingresso' border='0' />
-            </form>
+            <p><strong>{{ site.eventDate }}</strong></p>
             </div>
         </div>
     </div>
