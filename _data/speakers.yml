@@ -56,17 +56,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/nawarian"}
 -
-  id: 11
-  name: "Augusto"
-  surname: "Pascutti"
-  company: "Easy Taxy"
-  title: "Software Engineer"
-  bio: "Developer for 10+ years. Fan of open source, people (co-founded PHPSP), Randal Munroe and PHP."
-  thumbnailUrl: pascutti.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/augustohp"}
--
   id: 3
   name: "Abdala"
   surname: "Cerqueira"
@@ -307,4 +296,13 @@
   bio: "Técnico em telecom diplomado pelo SENAI com registro no CREA-SP. Certificado ZCE PHP 5.3, instrutor, autor do livro Aprendendo Docker, hoje atua parte como desenvolvedor parte como administrador de sistemas e possui perfil Devops. Tem contribuído com ajuda em fóruns e palestras para comunidades PHP, Python e Docker."
   thumbnailUrl: wellington.jpeg
   rockstar: true  
+-
+  id: 31
+  name: "Marcel"
+  surname: "dos Santos"
+  company: ""
+  title: "Desenvolvedor"
+  bio: "Formado em Sistemas de Informação pela EACH-USP, atualmente trabalha como desenvolvedor web na Editora Três, organizador do FEMUG-SP e evangelista do PHPSP. Interessado por desenvolvimento web e tecnologia de um modo geral, HTML, CSS, JavaScript, PHP, Laravel, programação funcional, Linux e Mac fazem parte de seu dia-a-dia. Ávido por tecnologia e auto-didata, gosta de explorar outras áreas como UX, Web Analytics, DevOps, Cloud Computing e o mundo do código aberto."
+  thumbnailUrl: marcel-santos.jpeg
+  rockstar: true
 
