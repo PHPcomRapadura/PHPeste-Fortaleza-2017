@@ -1,6 +1,7 @@
 -
   group: "Apoiadores"
   elements:
-    - { name: "Casa do Código", description: "", link: "https://www.casadocodigo.com.br", imageUrl: "casa-do-codigo.png" }
-    - { name: "Stickers Dev", description: "", link: "https://www.stickersdevs.com.br", imageUrl: "stickers-dev.png"  }
+    - { name: "iMasters", description: "", link: "https://www.imasters.com.br", imageUrl: "imasters.png"  }
     - { name: "Umbler", description: "", link: "https://www.umbler.com", imageUrl: "umbler.png"  }
+    - { name: "Casa do Código", description: "", link: "https://www.casadocodigo.com.br", imageUrl: "casa-do-codigo.png" }
+    - { name: "Stickers Dev", description: "", link: "https://www.stickersdevs.com.br", imageUrl: "stickers-dev.png"  }    
