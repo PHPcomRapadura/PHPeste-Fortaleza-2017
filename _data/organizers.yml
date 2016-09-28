@@ -10,4 +10,4 @@
     - {name: "PHPPE", description: "Grupo de Desenvolvedores de PHP de Pernambuco", link: "#", imageUrl: "phppe.jpg"}
     - {name: "PHPMA", description: "Grupo de Desenvolvedores de PHP do Maranhão", link: "#", imageUrl: "phpma.png"}
     - {name: "Darkmira Tour", description: "O Darkmira PHP Tour é um evento anual internacional de 3 dias, que propõem, dando respostas pragmáticas, revisar o estado da arte da segurança e da fábrica de software nos desenvolvimentos PHP.", link: "https://br.darkmiratour.com", imageUrl: "darkmira-tour.jpg"}
-    - {name: "Rumo à Certificação PHP", description: "Grupo de estudos focado na certificação ZCPE (Zend Certified PHP Engineer).", link: "www.rumoacertificacaophp.com/", imageUrl: "rumo-zce.png"}
+    - {name: "Rumo à Certificação PHP", description: "Grupo de estudos focado na certificação ZCPE (Zend Certified PHP Engineer).", link: "http://www.rumoacertificacaophp.com", imageUrl: "rumo-zce.png"}

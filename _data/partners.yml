@@ -1,4 +1,8 @@
 -
+  group: ""
+  elements:
+    - { name: "PHPSP", description: "", link: "http://www.phpsp.org", imageUrl: "phpsp.png" }
+-
   group: "Apoio"
   elements:
     - { name: "iMasters", description: "", link: "https://www.imasters.com.br", imageUrl: "imasters.png"  }
