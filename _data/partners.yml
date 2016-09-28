@@ -1,5 +1,5 @@
 -
-  group: ""
+  group: "Apoio"
   elements:
     - { name: "iMasters", description: "", link: "https://www.imasters.com.br", imageUrl: "imasters.png"  }
     - { name: "Umbler", description: "", link: "https://www.umbler.com", imageUrl: "umbler.png"  }
