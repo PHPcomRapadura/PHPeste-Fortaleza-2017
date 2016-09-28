@@ -1,7 +1,7 @@
 -
   group: ""
   elements:
-    - { name: "PHPSP", description: "", link: "http://www.phpsp.org", imageUrl: "phpsp.png", width: "340px" }
+    - { name: "PHPSP", description: "", link: "http://www.phpsp.org.br", imageUrl: "phpsp.png", width: "340px" }
     - { name: "iMasters", description: "", link: "https://www.imasters.com.br", imageUrl: "imasters.png", width: "340px"  }
     - { name: "WeberSchool", description: "A WeberSchool promove treinamentos para profissionais e empresas interessadas em melhorar a qualidade e o processo de desenvolvimento de software.", link: "https://fb.com/weberschoolfsa", imageUrl: "weberschool.png", width: "340px"  }
 -
