@@ -223,10 +223,46 @@
   language: pt
   complexity: "Intermediário"
 -
-  id: 31
+  id: 031
   subtype: presentation
   title: "Introdução a Tipos em PHP"
   description: "O conceito de tipos é muito importante para as linguagens de programação e dominá­lo é essencial para a produção de códigos de qualidade. Porém, este conceito é, muitas vezes, incompreendido por muitos programadores. Nesta palestra serão apresentadas a definição de tipos, tipagem estática e dinâmica, tipagem forte e fraca, como funciona o sistema de tipos em PHP, scalar type hints e strict type, vantagens e desvantagens na utilização de tipos em linguagens de programação e qual é o futuro do PHP em relação a tipo"
   speakers: [31]
   language: pt
   complexity: "Iniciante"
+-
+  id: 032
+  subtype: networking
+  title: "Abertura"
+  description: "Abertura do evento"
+  speakers: []  
+-
+  id: 033
+  subtype: check-in
+  title: "Credenciamento"
+  description: "Credenciamento e entrega do crachás."
+  speakers: []
+-
+  id: 034
+  subtype: lanch
+  title: "Coffee-break"
+  description: "Pausa para o lanche."
+  speakers: []  
+-
+  id: 035
+  subtype: lanch
+  title: "Almoço"
+  description: "Pausa para o almoço."
+  speakers: []  
+-
+  id: 036
+  subtype: smalltalk
+  title: "Mulheres na Computação"
+  description: "Uma mesa redonda para falar sobre o empoderamento das mulheres na computação."
+  speakers: []  
+-
+  id: 037
+  subtype: end
+  title: "Encerramento & Edição 2017"
+  description: "Encerramento e Edição 2017."
+  speakers: [] 
