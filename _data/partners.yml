@@ -1,12 +1,13 @@
 -
   group: ""
   elements:
+    - { name: "ECGlobal", description: "", link: "http://www.ecglobalsolutions.com", imageUrl: "ecglobal.png" }
     - { name: "PHPSP", description: "", link: "http://www.phpsp.org.br", imageUrl: "phpsp.png", width: "340px" }
     - { name: "iMasters", description: "", link: "https://www.imasters.com.br", imageUrl: "imasters.png", width: "340px"  }
     - { name: "WeberSchool", description: "A WeberSchool promove treinamentos para profissionais e empresas interessadas em melhorar a qualidade e o processo de desenvolvimento de software.", link: "https://fb.com/weberschoolfsa", imageUrl: "weberschool.png", width: "340px"  }
 -
   group: "Apoio"
-  elements:    
+  elements:
     - { name: "Umbler", description: "", link: "https://www.umbler.com", imageUrl: "umbler.png"  }
     - { name: "Casa do Código", description: "", link: "https://www.casadocodigo.com.br", imageUrl: "casa-do-codigo.png" }
-    - { name: "Stickers Dev", description: "", link: "https://www.stickersdevs.com.br", imageUrl: "stickers-dev.png"  }    
+    - { name: "Stickers Dev", description: "", link: "https://www.stickersdevs.com.br", imageUrl: "stickers-dev.png"  }
