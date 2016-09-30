@@ -266,3 +266,11 @@
   title: "Encerramento & Edição 2017"
   description: "Encerramento e Edição 2017."
   speakers: [] 
+-
+  id: 038
+  title: "PHP e mongoDB para os acostumados com o sol"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  language: pt
+  complexity: "Intermediário" 
