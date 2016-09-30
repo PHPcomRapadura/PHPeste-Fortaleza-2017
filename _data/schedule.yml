@@ -81,12 +81,7 @@
   tracks: 
     - {title: "Auditório 01", color: "#90be4e"}
     - {title: "Auditório 02", color: "#03a9f4"}
-  timeslots: 
-    - {
-        startTime: "8:00",
-        endTime: "9:00",
-        sessionIds: [033]
-    }
+  timeslots:     
     - {
         startTime: "9:00",
         endTime: "9:15",
