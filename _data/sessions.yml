@@ -145,7 +145,7 @@
 -
   id: 020
   title: "Jornada do Herói Dev: perrengues e gambiarras e como passamos por cima"
-  description: ""
+  description: "Usando como pano de fundo a Jornada do Herói (Monomito - https://pt.wikipedia.org/wiki/Monomito), mostrarei como os desenvolvedores passam por problemas (Jornada) que os tornam melhores desenvolvedores no final. Desde coisas mais simples como aprendizado de novas linguagens, repasse de conhecimento e introdução de testes, passando por automação de testes, documentação e partindo para coisas mais desafiadoras como migração de sistemas legados, uso de processos e técnicas ágeis, estabelecer uma cultura ágil, iniciar com a cultura devops. Essa é a minha Jornada, mas pode bem ser a de qualquer um!"
   subtype: presentation
   speakers: [20]
   language: pt
