@@ -209,9 +209,9 @@
   id: 21
   name: "Danielle"
   surname: "Teixeira"
-  company: "Woman Techmacker SSA"
+  company: "Woman Techmackers SSA"
   title: "Membro"
-  bio: "Graduada em Engenharia de Computação e especialista em Banco de Dados, pós graduanda em Desenvolvimento para Aplicativos Móveis, no dia-a-dia é Analista de Requisitos e nas horas vagas se aventura em testes de ferramentas softwares provendo qualidade de software e sistemas embarcados. Membro do Woman Techmacker SSA, PHP BA, Raul Hacker Club. Apaixonada por pesquisa na área de computação ubíqua, desenvolvimento mobile, eletrônica, Arduíno, Raspberry Pi, educação e empreendedorismo."
+  bio: "Graduada em Engenharia de Computação e especialista em Banco de Dados, pós graduanda em Desenvolvimento para Aplicativos Móveis, no dia-a-dia é Analista de Requisitos e nas horas vagas se aventura em testes de ferramentas softwares provendo qualidade de software e sistemas embarcados. Membro do Woman Techmackers SSA, PHP BA, Raul Hacker Club. Apaixonada por pesquisa na área de computação ubíqua, desenvolvimento mobile, eletrônica, Arduíno, Raspberry Pi, educação e empreendedorismo."
   thumbnailUrl: danielle.jpeg
   rockstar: true
   social:
@@ -220,11 +220,11 @@
   id: 22
   name: "Bianca"
   surname: "Marques"
-  company: "Woman Techmacker SSA"
+  company: "Woman Techmackers SSA"
   title: "Membro"
-  bio: "Estudante de Análise e Desenvolvimento de Sistemas,integrante do WTM SSA,técnica em Redes de Computadores e a louca dos eventos de TI."
+  bio: "Estudante de Análise e Desenvolvimento de Sistemas, integrante do WTM SSA, técnica em Redes de Computadores e a louca dos eventos de TI."
   thumbnailUrl: bianca.jpeg
-  rockstar: true  
+  rockstar: true
 -
   id: 23
   name: "Ted k'"
@@ -277,7 +277,7 @@
   title: "Sócio-diretor"
   bio: "Graduado em Ciência da computação pela Universidade Federal da Bahia. Sócio-diretor da empresa Potelo Softwares que atualmente está na Incubadora da Aity no Parque Tecnológico da Bahia. A Potelo Softwares é responsável por um site com mais de 150 mil visitas/dia e desenvolvido com PHP."
   thumbnailUrl: gabrielpeixoto.jpeg
-  rockstar: true 
+  rockstar: true
 -
   id: 29
   name: "Luciano"
@@ -286,7 +286,7 @@
   title: ""
   bio: "PHP Software Engineer, trabalha remotamente há mais de 4 anos para empresas dentro e fora do Brasil. Atualmente tem dedicado tempo e esforço a dominar o Domain Driven Design. Frequentador assíduo de eventos ao redor do Brasil, acredita que a comunidade é o que faz a diferença na vida de um desenvolvedor."
   thumbnailUrl: luciano.jpg
-  rockstar: true  
+  rockstar: true
 -
   id: 30
   name: "Wellington"
@@ -295,7 +295,7 @@
   title: "Desenvolvedor"
   bio: "Técnico em telecom diplomado pelo SENAI com registro no CREA-SP. Certificado ZCE PHP 5.3, instrutor, autor do livro Aprendendo Docker, hoje atua parte como desenvolvedor parte como administrador de sistemas e possui perfil Devops. Tem contribuído com ajuda em fóruns e palestras para comunidades PHP, Python e Docker."
   thumbnailUrl: wellington.jpeg
-  rockstar: true  
+  rockstar: true
 -
   id: 31
   name: "Marcel"
@@ -305,4 +305,3 @@
   bio: "Formado em Sistemas de Informação pela EACH-USP, atualmente trabalha como desenvolvedor web na Editora Três, organizador do FEMUG-SP e evangelista do PHPSP. Interessado por desenvolvimento web e tecnologia de um modo geral, HTML, CSS, JavaScript, PHP, Laravel, programação funcional, Linux e Mac fazem parte de seu dia-a-dia. Ávido por tecnologia e auto-didata, gosta de explorar outras áreas como UX, Web Analytics, DevOps, Cloud Computing e o mundo do código aberto."
   thumbnailUrl: marcel-santos.jpeg
   rockstar: true
-
